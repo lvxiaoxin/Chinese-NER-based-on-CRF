@@ -10,7 +10,6 @@ sync
 *.cfg
 *.log
 logs/
-data/
 *.xlsx
 *.py[cod]
 *.so
