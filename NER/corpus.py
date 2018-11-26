@@ -8,7 +8,7 @@
 import codecs
 import re
 
-from NER.utils import q_2_b, tag_mean_map
+from utils import q_2_b, tag_mean_map
 
 __corpus = None
 

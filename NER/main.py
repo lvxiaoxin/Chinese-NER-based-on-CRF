@@ -7,8 +7,8 @@
 """
 import json
 
-from NER.singleton import get_model
-from NER.utils import test_config, document, entity, section_map
+from singleton import get_model
+from utils import test_config, document, entity, section_map
 import codecs
 
 if __name__ == '__main__':

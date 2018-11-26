@@ -5,7 +5,7 @@
 @software: PyCharm
 @file: singleton
 """
-from NER.model import NerModel
+from model import NerModel
 
 __model = None
 

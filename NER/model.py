@@ -10,8 +10,8 @@ import sklearn_crfsuite
 from sklearn.externals import joblib
 from sklearn_crfsuite import metrics
 
-from NER.corpus import get_corpus
-from NER.utils import model_config, q_2_b, deal_with_entity
+from corpus import get_corpus
+from utils import model_config, q_2_b, deal_with_entity
 
 
 class NerModel(object):
