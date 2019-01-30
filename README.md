@@ -1,3 +1,7 @@
+<img src="nlp.png" align="right" width=30% height=30%>
+
+[![Language](https://img.shields.io/badge/language-python3.6+-blue.svg)](https://www.python.org/) [![license](https://img.shields.io/badge/license-MIT-green.svg)]()
+
 # 基于条件随机场(CRF)对中文案件语料进行命名实体识别(NER)
 
 ## 文件组织
