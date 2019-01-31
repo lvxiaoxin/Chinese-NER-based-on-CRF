@@ -29,3 +29,15 @@
         python main.py
     ```
     即可
+
+
+## 效果
+
+中间结果
+
+<img src="middle.png" align="center">
+
+
+预测结果
+
+<img src="result.png" align="center">
