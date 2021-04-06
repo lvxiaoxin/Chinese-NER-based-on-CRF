@@ -7,7 +7,7 @@
 """
 
 import sklearn_crfsuite
-from sklearn.externals import joblib
+import joblib
 from sklearn_crfsuite import metrics
 
 from corpus import get_corpus
